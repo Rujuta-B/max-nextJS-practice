@@ -1,7 +1,7 @@
 import React from "react";
 
 const list = () => {
-  return <div>Portfolio list</div>;
+  return <div>List of all my projects</div>;
 };
 
 export default list;

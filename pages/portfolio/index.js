@@ -5,7 +5,7 @@ const index = () => {
   const router = useRouter();
   console.log(router.query);
   console.log(router.pathname);
-  return <div>Portfolio index</div>;
+  return <div>This is an introductory to my Portfolio</div>;
 };
 
 export default index;

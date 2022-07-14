@@ -1,7 +1,7 @@
 import React from "react";
 
 const ProductsIndex = () => {
-  return <div>ProductsIndex</div>;
+  return <div>Introductory to all the products</div>;
 };
 
 export default ProductsIndex;
